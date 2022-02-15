@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mon titre</title>
+        <author>mon auteur</author>
+      </titleStmt>	
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1676"></date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <s>J'ai effectué la maraude et le signalement dans le 15 ème arrondissement un samedi soir.</s>
+          <s>La garde a commencé par une double écoute au 115 qui m'a perturbé sur plusieurs points.</s>
+          <s>Après un très court briefing, nous sommes donc partis à la rencontre des divers signalements.</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
