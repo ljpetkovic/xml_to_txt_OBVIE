@@ -1,3 +1,8 @@
+<Titre>Mémoire sur les plis cérébraux de l'homme et des primates</Titre>
+<Auteur>Gratiolet, Pierre-Louis</Auteur>
+<Auteur>Arthus Bertrand</Auteur>
+<Date>1854</Date>
+
 CA_000001_002
 
 MÉMOIRE
