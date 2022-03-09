@@ -2,8 +2,7 @@
 <Auteur>Gratiolet, Pierre-Louis</Auteur>
 <Auteur>Arthus Bertrand</Auteur>
 <Date>1854</Date>
-
-CA_000001_002
+<Cote>CA_000001_002</Cote>
 
 MÉMOIRE
 SUR LES

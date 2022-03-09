@@ -7,8 +7,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Bernard, Désiré</Auteur>
 <Date>1890</Date>
-
-CL_000001_003
+<Cote>CL_000001_003</Cote>
 
 ŒUVRES COMPLÈTES
 DE

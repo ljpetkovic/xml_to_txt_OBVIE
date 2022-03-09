@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 22] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1909</Date>
-
-CS_000022_022
+<Cote>CS_000022_022</Cote>
 
 
 

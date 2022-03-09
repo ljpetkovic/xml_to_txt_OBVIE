@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 27] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1915</Date>
-
-CS_000027_027
+<Cote>CS_000027_027</Cote>
 
 
 

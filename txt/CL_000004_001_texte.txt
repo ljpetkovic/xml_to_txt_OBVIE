@@ -2,8 +2,7 @@
 <Auteur>Richer, Paul</Auteur>
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Date>1881</Date>
-
-CL_000004_001
+<Cote>CL_000004_001</Cote>
 
 E TU DES CLINIQUES
 SUR

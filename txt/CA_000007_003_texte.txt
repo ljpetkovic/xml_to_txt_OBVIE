@@ -3,8 +3,8 @@
 <Auteur>Jacob, Nicolas-Henri</Auteur>
 <Auteur>Bernard, Claude</Auteur>
 <Date>1867</Date>
+<Cote>CA_000007_003</Cote>
 
-CA_000007_003
 
 BOURGERY, CLAUDE BERNARD ET JACOB
 TRAITÉ COMPLET DE L'ANATOMIE DE L'HOMME

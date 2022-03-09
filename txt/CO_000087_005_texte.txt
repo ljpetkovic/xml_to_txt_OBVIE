@@ -2,8 +2,7 @@
 <Auteur>Desmoulins, Antoine</Auteur>
 <Auteur>Magendie, François</Auteur>
 <Date>1825</Date>
-
-CO_000087_005
+<Cote>CO_000087_005</Cote>
 
 
 

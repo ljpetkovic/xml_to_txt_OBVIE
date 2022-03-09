@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 12]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1899</Date>
-
-CS_000012_012
+<Cote>CS_000012_012</Cote>
 
 
 

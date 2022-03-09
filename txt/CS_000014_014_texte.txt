@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 14]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1901</Date>
-
-CS_000014_014
+<Cote>CS_000014_014</Cote>
 
 
 

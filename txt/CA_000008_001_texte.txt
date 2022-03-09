@@ -1,8 +1,7 @@
 <Titre>Leçons cliniques sur les maladies chroniques de l'appareil locomoteur : professées à l'Hôpital des enfants malades pendant les années 1855, 1856, 1857</Titre>
 <Auteur>Bouvier, Sauveur Henri Victor</Auteur>
 <Date>1858</Date>
-
-CA_000008_001
+<Cote>CA_000008_001</Cote>
 
 LEÇONS CLINIQUES
 SUR

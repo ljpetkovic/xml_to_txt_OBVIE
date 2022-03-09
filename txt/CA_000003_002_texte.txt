@@ -1,8 +1,7 @@
 <Titre>Anatomie du cerveau de l'homme : morphologie des hémisphères cérébraux, ou cerveau proprement dit. Atlas</Titre>
 <Auteur>Brissaud, Édouard</Auteur>
 <Date>1893</Date>
-
-CA_000003_002
+<Cote>CA_000003_002</Cote>
 
 ANATOMIE
 DU

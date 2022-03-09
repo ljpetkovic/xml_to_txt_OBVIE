@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 17</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1902-1903</Date>
+<Cote>CH_00000093</Cote>
 
-hypno_1902-1903
 	
 
 

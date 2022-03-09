@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 25] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1912</Date>
-
-CS_000025_025
+<Cote>CS_000025_025</Cote>
 
 
 

@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 20] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1907</Date>
-
-CS_000020_020
+<Cote>CS_000020_020</Cote>
 
 
 

@@ -2,8 +2,7 @@
 <Auteur>Babinski, Joseph</Auteur>
 <Auteur>Barré, Jean-Alexandre</Auteur>
 <Date>1934</Date>
-
-CO_000090_008
+<Cote>CO_000090_008</Cote>
 
 
 

@@ -2,8 +2,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Montméja, A. de</Auteur>
 <Date>1872</Date>
-
-CP_000004_001
+<Cote>CP_000004_001</Cote>
 
 REVUE
 PHOTOGRAPHIQUE

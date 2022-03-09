@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 21] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1908</Date>
-
-CS_000021_021
+<Cote>CS_000021_021</Cote>
 
 
 

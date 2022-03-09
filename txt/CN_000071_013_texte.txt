@@ -2,8 +2,7 @@
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1902</Date>
-
-CN_000071_013
+<Cote>CN_000071_013</Cote>
 
 
 

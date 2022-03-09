@@ -2,8 +2,7 @@
 <Auteur>Guinon, Georges</Auteur>
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Date>1892</Date>
-
-CL_000005_001
+<Cote>CL_000005_001</Cote>
 
 PUBLICATIONS DU PROGRÈS MÉDICAL
 HOSPICE DE LA SALPÊTRIÈRE

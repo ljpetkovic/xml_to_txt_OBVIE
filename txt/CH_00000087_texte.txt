@@ -1,8 +1,7 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 11</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1896-1897</Date>
-
-hypno_1896-1897
+<Cote>CH_00000087</Cote>
 	
 
 

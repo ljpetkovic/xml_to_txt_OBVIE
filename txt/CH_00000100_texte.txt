@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 24</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1909-1910</Date>
+<Cote>CH_00000100</Cote>
 
-hypno_1909-1910
 	
 
 

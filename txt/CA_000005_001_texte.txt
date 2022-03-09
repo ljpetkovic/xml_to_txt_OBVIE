@@ -3,8 +3,7 @@
 <Auteur>Bion, F.</Auteur>
 <Auteur>Beau, Émile</Auteur>
 <Date>1844</Date>
-
-CA_000005_001
+<Cote>CA_000005_001</Cote>
 
 TRAITÉ COMPLET
 L'MATOMIE, DE LA PHYSIOLOGIE

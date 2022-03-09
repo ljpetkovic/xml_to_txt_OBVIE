@@ -4,8 +4,7 @@
 <Auteur>Crouzon, Octave</Auteur>
 <Auteur>Delamare, G.</Auteur>
 <Date>1911</Date>
-
-CO_000093_011
+<Cote>CO_000093_011</Cote>
 
 
 

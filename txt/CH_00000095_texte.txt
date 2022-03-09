@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 19</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1904-1905</Date>
+<Cote>CH_00000095</Cote>
 
-hypno_1904-1905
 	
 
 

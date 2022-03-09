@@ -1,8 +1,8 @@
 <Titre>Oreille et encéphale : étude d'anatomie chirurgicale</Titre>
 <Auteur>Perez, Fernando</Auteur>
 <Date>1905</Date>
+<Cote>CA_000002_001</Cote>
 
-CA_000002_001
 
 TRAVAIL DU LABORATOIRE DE NEUROLOGIE ET PSYCHIATRIE DE LA FACULTÉ DE MÉDECINE
 directeur docteur ciir. jak.ob

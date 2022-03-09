@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 18] : recueil consacré à l'iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1905</Date>
-
-CS_000018_018
+<Cote>CS_000018_018</Cote>
 
 
 

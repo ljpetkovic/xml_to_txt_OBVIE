@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 11]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1898</Date>
-
-CS_000011_011
+<Cote>CS_000011_011</Cote>
 
 
 

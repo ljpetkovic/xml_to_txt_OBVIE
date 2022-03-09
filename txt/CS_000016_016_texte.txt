@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 16]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1903</Date>
-
-CS_000016_016
+<Cote>CS_000016_016</Cote>
 
 
 

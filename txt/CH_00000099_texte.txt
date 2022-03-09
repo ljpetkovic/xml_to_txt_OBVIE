@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 23</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1908-1909</Date>
+<Cote>CH_00000099</Cote>
 
-hypno_1908-1909
 	
 
 

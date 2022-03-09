@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 17]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1904</Date>
-
-CS_000017_017
+<Cote>CS_000017_017</Cote>
 
 
 

@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 01] : clinique des maladies du système nerveux</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1888</Date>
-
-CS_000001_001
+<Cote>CS_000001_001</Cote>
 
 
 

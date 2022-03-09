@@ -2,8 +2,7 @@
 <Auteur>Londe, Albert</Auteur>
 <Auteur>Gauthier-Villars</Auteur>
 <Date>1893</Date>
-
-CL_000007_001
+<Cote>CL_000007_001</Cote>
 
 BIBLIOTHÈQUE PHOTOGRAPHIQUE.
 LA

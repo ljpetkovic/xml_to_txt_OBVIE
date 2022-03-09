@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 24] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1911</Date>
-
-CS_000024_024
+<Cote>CS_000024_024</Cote>
 
 
 

@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 21</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1906-1907</Date>
+<Cote>CH_00000097</Cote>
 
-hypno_1906-1907
 	
 
 

@@ -2,8 +2,7 @@
 <Auteur>Regnard, Paul</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date></Date>
-
-CI_000001_001
+<Cote>CI_000001_001</Cote>
 
 ICONOGRAPHIE
 PHOTOGRAPHIQUE

@@ -2,8 +2,7 @@
 <Auteur>Gavoy, Émile-Alexandre</Auteur>
 <Auteur>Vulpian, Alfred</Auteur>
 <Date>1886</Date>
-
-CA_000010_001
+<Cote>CA_000010_001</Cote>
 
 Monsieur le professeur Charcot
 membre de l'institut

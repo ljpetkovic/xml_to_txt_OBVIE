@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XX]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1861</Date>
+<Cote>CH_00000117</Cote>
 
 1861
 

@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 23] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1910</Date>
-
-CS_000023_023
+<Cote>CS_000023_023</Cote>
 
 
 

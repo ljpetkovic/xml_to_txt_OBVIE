@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 13]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1900</Date>
-
-CS_000013_013
+<Cote>CS_000013_013</Cote>
 
 
 

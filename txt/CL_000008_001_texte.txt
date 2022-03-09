@@ -1,8 +1,7 @@
 <Titre>Mécanisme de la physionomie humaine : ou analyse électro-physiologique de l'expression des passions</Titre>
 <Auteur>Duchenne, Guillaume-Benjamin</Auteur>
 <Date>1862</Date>
-
-CL_000008_001
+<Cote>CL_000008_001</Cote>
 
 MÉCANISME
 DE l,A

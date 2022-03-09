@@ -3,8 +3,7 @@
 <Auteur>Jacob, Nicolas-Henri</Auteur>
 <Auteur>Bernard, Claude</Auteur>
 <Date>1866</Date>
-
-CA_000007_001
+<Cote>CA_000007_001</Cote>
 
 TRAITÉ COMPLET
 DE

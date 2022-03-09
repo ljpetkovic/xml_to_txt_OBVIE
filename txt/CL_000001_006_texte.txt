@@ -4,6 +4,7 @@
 <Auteur>Sevestre, Louis Arthur</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1891</Date>
+<Cote>CL_000001_006</Cote>
 
 ŒUVRES COMPLÈTES
 DE

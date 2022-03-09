@@ -5,8 +5,7 @@
 <Auteur>Trélat, Ulysse</Auteur>
 <Auteur>Gratiolet, Pierre-Louis</Auteur>
 <Date>1857</Date>
-
-CA_000004_003
+<Cote>CA_000004_003</Cote>
 
 ANATOMIE COMPARÉE
 du

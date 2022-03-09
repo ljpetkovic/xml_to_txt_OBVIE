@@ -3,8 +3,7 @@
 <Auteur>Londe, Albert</Auteur>
 <Auteur>Blocq, Paul</Auteur>
 <Date>1891</Date>
-
-CO_000092_010
+<Cote>CO_000092_010</Cote>
 
 
 

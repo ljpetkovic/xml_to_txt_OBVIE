@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 14</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1899-1900</Date>
+<Cote>CH_00000090</Cote>
 
-hypno_1899-1900
 	
 
 

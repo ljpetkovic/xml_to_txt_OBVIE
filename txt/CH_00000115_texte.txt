@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XVIII]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1859</Date>
+<Cote>CH_00000115</Cote>
 
 1859
 	

@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XVI]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1857</Date>
+<Cote>CH_00000113</Cote>
 
 1857
 	

@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XIII]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1854</Date>
+<Cote>CH_00000110</Cote>
 
 1854
 

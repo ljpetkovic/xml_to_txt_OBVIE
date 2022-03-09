@@ -4,8 +4,7 @@
 <Auteur>Service des épileptiques et des enfants idiots et arriérés de Bicêtre</Auteur>
 <Auteur>Pilliet, Alexandre-Henri</Auteur>
 <Date>1890</Date>
-
-CY_000104_010
+<Cote>CY_000104_010</Cote>
 
 
 

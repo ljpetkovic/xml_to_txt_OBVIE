@@ -2,8 +2,7 @@
 <Auteur>Cruveilhier, Jean</Auteur>
 <Auteur>Chazal, Antoine</Auteur>
 <Date>1829</Date>
-
-CA_000014_001
+<Cote>CA_000014_001</Cote>
 
 ANATOMIE
 PATHOLOGIQUE

@@ -2,8 +2,7 @@
 <Auteur>Regnard, Paul</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1880</Date>
-
-CI_000004_001
+<Cote>CI_000004_001</Cote>
 
 ICONOGRAPHIE
 PHOTOGRAPHIQUE

@@ -1,8 +1,8 @@
 <Titre>Anatomie du cerveau de l'homme : morphologie des hémisphères cérébraux, ou cerveau proprement dit. Texte accompagné de 204 figures schématiques</Titre>
 <Auteur>Brissaud, Édouard</Auteur>
 <Date>1893</Date>
+<Cote>CA_000003_001</Cote>
 
-CA_000003_001
 
 ANATOMIE
 DU

@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XI]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1852</Date>
+<Cote>CH_00000108</Cote>
 
 1852
 

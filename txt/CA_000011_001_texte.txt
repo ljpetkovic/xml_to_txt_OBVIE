@@ -2,8 +2,7 @@
 <Auteur>Flower, William Henry</Auteur>
 <Auteur>Duprat, A.</Auteur>
 <Date>1888</Date>
-
-CA_000011_001
+<Cote>CA_000011_001</Cote>
 
 ATLAS SCHÉMATIQUE
 1) V

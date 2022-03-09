@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome IX]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1850</Date>
+<Cote>CH_00000106</Cote>
 
 1850
 

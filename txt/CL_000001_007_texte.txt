@@ -4,6 +4,7 @@
 <Auteur>Joffroy, Alix</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1890</Date>
+<Cote>CL_000001_007</Cote>
 
 ŒUVRES COMPLÈTES
 DE

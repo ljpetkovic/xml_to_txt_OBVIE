@@ -3,8 +3,7 @@
 <Auteur>Jacob, Nicolas-Henri</Auteur>
 <Auteur>Bernard, Claude</Auteur>
 <Date>1866</Date>
-
-CA_000007_002
+<Cote>CA_000007_002</Cote>
 
 TRAITÉ COMPLET DE L'ANATOMIE DE L'HOMME
 ANATOMIE CHIRURGICALE

@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 26] : iconographie médicale et artistique</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1913</Date>
-
-CS_000026_026
+<Cote>CS_000026_026</Cote>
 
 
 

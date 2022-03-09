@@ -2,8 +2,7 @@
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1887</Date>
-
-CN_000042_014
+<Cote>CN_000042_014</Cote>
 
 
 

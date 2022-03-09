@@ -2,8 +2,7 @@
 <Auteur>Regnard, Paul</Auteur>
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Date>1878</Date>
-
-CI_000003_001
+<Cote>CI_000003_001</Cote>
 	
 
 

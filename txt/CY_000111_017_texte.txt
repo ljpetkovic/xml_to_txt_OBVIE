@@ -2,8 +2,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Service des épileptiques et des enfants idiots et arriérés de Bicêtre</Auteur>
 <Date>1897</Date>
-
-CY_000111_017
+<Cote>CY_000111_017</Cote>
 
 
 

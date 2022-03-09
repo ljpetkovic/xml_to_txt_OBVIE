@@ -2,8 +2,7 @@
 <Auteur>Dejerine, Jules</Auteur>
 <Auteur>Dejerine-Klumpke, Augusta</Auteur>
 <Date>1895</Date>
-
-CO_000088_006
+<Cote>CO_000088_006</Cote>
 
 
 

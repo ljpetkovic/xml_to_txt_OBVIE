@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XIV]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1855</Date>
+<Cote>CH_00000111</Cote>
 
 1855
 

@@ -2,6 +2,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Service des épileptiques et des enfants idiots et arriérés de Bicêtre</Auteur>
 <Date>1905</Date>
+<Cote>CY_000119_001</Cote>
 
 PUBLICATIONS DU PROGRÈS MÉDICAL
 RECHERCHES

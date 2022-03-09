@@ -1,8 +1,7 @@
 <Titre>Exposé des travaux scientifiques</Titre>
 <Auteur>Babinski, Joseph</Auteur>
 <Date>1913</Date>
-
-CO_000091_009
+<Cote>CO_000091_009</Cote>
 
 
 

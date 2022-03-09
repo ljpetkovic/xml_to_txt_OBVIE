@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tome XVII]</Titre>
 <Auteur> Société de magnétiseurs et de médecins</Auteur>
 <Date>1858</Date>
+<Cote>CH_00000114</Cote>
 
 1858
 	

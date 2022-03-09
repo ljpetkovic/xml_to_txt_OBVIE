@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 15]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1902</Date>
-
-CS_000015_015
+<Cote>CS_000015_015</Cote>
 
 
 

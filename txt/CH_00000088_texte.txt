@@ -1,8 +1,8 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 12</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1897-1898</Date>
+<Cote>CH_00000088</Cote>
 
-hypno_1897-1898
 	
 
 

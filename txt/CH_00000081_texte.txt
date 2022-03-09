@@ -1,8 +1,7 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 5</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1890-1891</Date>
-
-hypno_1891
+<Cote>CH_00000081</Cote>
 	
 
 

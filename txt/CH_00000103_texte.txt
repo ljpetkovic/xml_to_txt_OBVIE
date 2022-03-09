@@ -1,6 +1,7 @@
 <Titre>Journal du magnétisme [Tomes IV et V]</Titre>
 <Auteur>Société de magnétiseurs et de médecins</Auteur>
 <Date>1847</Date>
+<Cote>CH_00000103</Cote>
 
 1847
 

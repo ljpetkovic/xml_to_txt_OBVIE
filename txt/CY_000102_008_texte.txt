@@ -2,8 +2,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Service des épileptiques et des enfants idiots et arriérés de Bicêtre</Auteur>
 <Date>1888</Date>
-
-CY_000102_008
+<Cote>CY_000102_008</Cote>
 
 
 

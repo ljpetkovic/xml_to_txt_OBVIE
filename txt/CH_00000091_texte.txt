@@ -1,9 +1,9 @@
 <Titre>Revue de l'hypnotisme et de la psychologie physiologique, Tome 15</Titre>
 <Auteur>Bérillon, Edgar</Auteur>
 <Date>1900-1901</Date>
+<Cote>CH_00000091</Cote>
 
-hypno_1900-1901
-	
+
 
 
 REVUE DE

@@ -3,8 +3,7 @@
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Auteur>Charcot, Jean-Baptiste</Auteur>
 <Date>1889</Date>
-
-CL_000009_002
+<Cote>CL_000009_002</Cote>
 
 PUBLICATIONS DU PROGRÈS MÉDICAL
 LEÇONS DU MARDI À LÀ SALPETRIEM

@@ -1,8 +1,7 @@
 <Titre>Charcot artiste</Titre>
 <Auteur>Meige, Henry</Auteur>
 <Date>1925</Date>
-
-CL_000003_001
+<Cote>CL_000003_001</Cote>
 
 CHARCOT ARTISTE
 MASSON ET Cie, ÉDITEURS

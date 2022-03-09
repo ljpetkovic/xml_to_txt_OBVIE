@@ -1,8 +1,7 @@
 <Titre>Nouvelle iconographie de la Salpétrière [Tome 10]</Titre>
 <Auteur>Gilles de la Tourette, Georges</Auteur>
 <Date>1897</Date>
-
-CS_000010_010
+<Cote>CS_000010_010</Cote>
 
 
 

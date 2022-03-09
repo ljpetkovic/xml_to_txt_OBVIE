@@ -2,8 +2,7 @@
 <Auteur>Bourneville, Désiré Magloire</Auteur>
 <Auteur>Charcot, Jean-Martin</Auteur>
 <Date>1890</Date>
-
-CL_000001_009
+<Cote>CL_000001_009</Cote>
 
 ŒUVRES COMPLÈTES
 DE
